@@ -1,0 +1,27 @@
+.image {
+    height:200px;
+    width: 200px;
+}
+.middle {
+    display:flex;
+    height:200px;
+}
+.bottom { 
+    display:flex;
+    justify-content:space-around;
+}
+body {background-color: pink;
+background:#f7edf2;}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+h1 {
+    font-family: "Comic Sans";
+font-size: 40px;
+text-align: center;
+color: #5c5c5c;
+}
+
